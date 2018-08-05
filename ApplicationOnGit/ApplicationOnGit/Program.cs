@@ -12,7 +12,7 @@ namespace ApplicationOnGit
         {
 
             Console.WriteLine("Hello - World");
-            console.WriteLine("Happy Friendship day");
+            console.WriteLine("Happy Friendship ggggday");
             Console.ReadLine();
         }
     }
